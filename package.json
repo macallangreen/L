@@ -1,0 +1,22 @@
+{
+  "name": "l",
+  "version": "0.0.0",
+  "description": "L",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macallangreen/L.git"
+  },
+  "keywords": [
+    "L"
+  ],
+  "author": "Macallan Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macallangreen/L/issues"
+  },
+  "homepage": "https://github.com/macallangreen/L#readme"
+}
