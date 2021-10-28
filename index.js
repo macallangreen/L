@@ -2,7 +2,7 @@ console.log(`
 
   ifDone() get large cats
   ifDone
-  ifDone you mother
+  iDone you mother
   fat man cute () haha career your dumb
 
   HAHAHAHA imagine not coding in 2021 lamo get  life kid carreer.com
